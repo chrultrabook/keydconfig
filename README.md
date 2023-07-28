@@ -1,2 +1,3 @@
-# keydconfig
-Custom keyd configs for Chromebook keyboards
+## keydconfig
+
+keyd configurations for Chromebook keyboards.
