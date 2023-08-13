@@ -2,8 +2,6 @@
 
 keyd configurations for Chromebook keyboards.
 
-<br>
-
 #### What config do I install?
 ```
 * cros-banshee.conf is for BANSHEE only.
