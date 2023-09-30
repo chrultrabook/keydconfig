@@ -1,8 +1,8 @@
+# A newer version which automates the installation has been released [here](https://github.com/WeirdTreeThing/cros-keyboard-map). 
+
 ## keydconfig
 
 keyd configurations for Chromebook keyboards.
-
-**DO NOT MANUALLY INSTALL THESE; USE [THE SCRIPT](https://github.com/WeirdTreeThing/cros-keyboard-map) TO INSTALL!**
 
 ### How do I install?
 Thanks to WeirdTreeThing, you can now do this with a automated tool. You will need `git` if you don't already have it installed.
